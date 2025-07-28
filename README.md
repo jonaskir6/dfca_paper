@@ -1,1 +1,1 @@
-# dfca_paper
+# Code for the paper "Decentralized Federated Clustering in Heterogeneous and Low-Connectivity Networks"

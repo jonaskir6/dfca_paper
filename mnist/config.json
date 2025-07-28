@@ -1,0 +1,21 @@
+{
+    "m" : 240,
+    "m_test" : 40,
+    "p" : 4,
+    "n" : 1000,
+    "uneven": false,
+    "local_model_init": false,
+
+    "h1": 200,
+
+    "num_epochs": 300,
+
+    "batch_size":100,
+    "tau":10,
+    "lr":0.1,
+
+    "data_seed":10,
+    "train_seed":10,
+    "config_override":"",
+    "project_dir": "output_dfca_gi"
+}
